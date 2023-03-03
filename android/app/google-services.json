@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819282164239",
+    "project_id": "keeptrying-app",
+    "storage_bucket": "keeptrying-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819282164239:android:c523de453f79978b01c17a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_againapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819282164239-gd6g435c8v88bgbaeu1fhdb45iq236fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoHrvUEQnC8F_8CpA2pG6L216JX_1rwOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819282164239-gd6g435c8v88bgbaeu1fhdb45iq236fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
